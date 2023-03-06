@@ -1,0 +1,13 @@
+form {
+    background-color: antiquewhite;
+    text-align: center;
+    overflow: hidden;
+    border: solid;
+    border-radius: 10px;
+    padding-bottom: 1rem;
+    font-style: italic;
+    font-size: 20px;
+    margin-left: 25%;
+    width: 50%;
+    white-space: nowrap;
+}

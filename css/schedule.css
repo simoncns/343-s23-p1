@@ -1,0 +1,8 @@
+.schedule {
+    display: block;
+    border: solid;
+    margin: auto;
+    background-color: antiquewhite;
+    border-radius: 15px;
+    width: 50%;
+}

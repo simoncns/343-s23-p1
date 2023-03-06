@@ -1,0 +1,34 @@
+body img {
+    width: 50%;
+    height: 50%;
+}
+figcaption {
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+    font-size: x-large;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 5vh;
+    font-size: 300%;
+}
+@media screen and (max-width: 1240px) {
+    .image1 {
+       height: auto;
+       max-width: 100vw;
+       background-size: auto;
+    }
+    .image2 {
+        height: auto;
+        max-width: 100vw;
+        background-size: auto;
+    }
+    .image3 {
+        height: auto;
+        max-width: 100vw;
+        background-size: auto;
+    }
+}
